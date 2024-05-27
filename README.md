@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 Anushka Patil</h1>
+<h1 align="center">Hi 👋, I'm Anushka Patil</h1>
 <h3 align="left">I am a dedicated Computer Science student fueled by a passion for leveraging technology to make a positive societal impact. My primary interest lies in Full Stack Development, where I thrive in crafting user-friendly interfaces and engineering innovative solutions.</h3>
 
 - 🌱 I’m currently learning **FullStack and Java**
